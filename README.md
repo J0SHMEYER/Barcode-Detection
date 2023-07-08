@@ -3,9 +3,11 @@
 
 # example
  input:
- 
- ![image](https://github.com/J0SHMEYER/Barcode-Detection/assets/100731166/abfa00eb-d2b4-431b-9739-93968de25dd8)
+
+ ![image](https://github.com/J0SHMEYER/Barcode-Detection/assets/100731166/4c8d9132-617c-438e-b072-b011fcceab95)
+
 
  output:
- 
- ![image](https://github.com/J0SHMEYER/Barcode-Detection/assets/100731166/3a66e573-79f7-44e7-ab02-26ff6ff4be8b)
+
+ ![image](https://github.com/J0SHMEYER/Barcode-Detection/assets/100731166/0b4fa9a0-14cf-44de-ab90-921e1c713399)
+
